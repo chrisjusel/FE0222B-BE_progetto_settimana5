@@ -1,3 +1,4 @@
+--c.v.
 create table multe.auto 
 (id Serial primary key not null,
  targa varchar(7) unique not null, 
